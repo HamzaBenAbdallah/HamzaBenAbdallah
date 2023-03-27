@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Hamza</h1>
 <h3 align="center">Full-Stack Software Engineer</h3>
 
-- 🌱 I’m currently learning **Typescript, Docker and AWS** - 👨‍💻 All of my
-projects are available at [hamzabenabdallah.dev](hamzabenabdallah.dev) - 📫 How
-to reach me **hamza.ben.abdallah02@gmail.com** - 📄 Know about my experiences
-[Resume](https://drive.google.com/file/d/1OgJm99PwLCMIBmqj59TxONo7XUMixEXL/view)
+- 🌱 I’m currently learning **Typescript, Docker and AWS** 
+- 👨‍💻 All of my projects are available at [hamzabenabdallah.dev](hamzabenabdallah.dev) 
+- 📫 How to reach me **hamza.ben.abdallah02@gmail.com** 
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1OgJm99PwLCMIBmqj59TxONo7XUMixEXL/view)
 
 <h3 align="left">Programming Languages:</h3>
 <p align="left">
